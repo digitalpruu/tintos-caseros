@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="34b87846-441a-48f0-bde6-d0ecf65393eb" name="Changes" comment="Funcional pero sin adjuntar archivos">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/favicon.ico" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +100,7 @@
       <workItem from="1726548715384" duration="418000" />
       <workItem from="1726550806349" duration="16000" />
       <workItem from="1726608739888" duration="310000" />
+      <workItem from="1727416817177" duration="105000" />
     </task>
     <task id="LOCAL-00001" summary="Funcional pero sin adjuntar archivos">
       <option name="closed" value="true" />
